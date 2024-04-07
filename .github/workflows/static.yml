@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "nitrolang.github.io"
+      url: "nitro-lang.github.io"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
