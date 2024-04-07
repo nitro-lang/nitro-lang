@@ -14,6 +14,16 @@ body {
     font-size: large;
 }
 
+.code {
+    margin: auto;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 102, 102);
+    width: auto;
+    white-space: pre-line;
+    text-align: left;
+}
+
 button {
     color: #ffffff;
     background-color: #00b2ff;
